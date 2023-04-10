@@ -23,7 +23,7 @@ import io.swagger.v3.oas.annotations.parameters.RequestBody;
 
 @RestController
 @RequestMapping("api/v1")
-@CrossOrigin(origins = "https://socialmediaapp-production-7995.up.railway.app")
+
 public class PostController {
 	
 	@Autowired
